@@ -1,0 +1,19 @@
+#medio {
+    height: 100%;
+    width: 70%;
+    background-color: rgb(12, 30, 87);
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+}
+.arriba {
+    height: 600px;
+    width: 100%;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    position: absolute;
+    top: 510px;
+    left: 18%;
+}
